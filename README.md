@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm longyinghui666</h2>
+<h1 align="center">Hi 👋, I'm longyinghui666</h1>
 <h3 align="center">一名初级前端开发</h3>
 
 - 🔭 I’m graduate from **B站大学**
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React Node.js**
 
 - 📫 How to reach me **2580397670@qq.com**
-<h3 align="center">欢迎和我交流！</h3>
+<h3>欢迎和我交流！</h3>
 
 ## 目前掌握技术栈
 
