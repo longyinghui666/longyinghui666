@@ -20,7 +20,7 @@ Vue3+Vue2 JavaScript es6 小程序
 
 ### 未来一年目标：
 
-学习React,TypeScript 将JavaScript 熟练，学习node.js!\
+学习React,TypeScript 将JavaScript 熟练，学习node.js!
 
 update 2022.11.4
 
