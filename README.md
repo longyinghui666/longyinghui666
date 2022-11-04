@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm longyinghui666</h1>
-<h3 align="center">一名成长中的菜鸟前端开发...</h3>
+<h3 align="center">一名成长中的前端开发...</h3>
 
 - 🔭 I’m graduate from **B站大学**
 
